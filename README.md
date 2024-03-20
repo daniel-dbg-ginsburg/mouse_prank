@@ -2,7 +2,7 @@
 
  A BLE mouse firmware that randomly jerks the cursor once in a while. Runs on ESP32-C3 (and probably also will on other ESP32s).
 
- Get yourself an ESP32-C3 board off Aliexpress, flash the firmware, pair it with your target's PC (some social engineering required), and leave it plugged somewhere around their desk. Watch the target troubleshoot.
+ Get yourself an ESP32-C3 board off Aliexpress, flash the firmware, pair it with your target's PC (some social engineering required), and leave it plugged somewhere around their desk. Watch them troubleshoot.
 
  ## Installation 
 
